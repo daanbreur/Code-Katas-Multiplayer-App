@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/daanbreur" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 # Welcome
 Welcome on the github page for the (Community) Project Code Katas Multiplayer. <br />
 This app was Inspired By [The CodingGarden](http://twitch.tv/codinggarden/).
