@@ -4,15 +4,41 @@
     <meta charset="utf-8">
     <title>Code Katas Multiplayer App</title>
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="public/css/main.css">
-    <script src="public/js/main.js" charset="utf-8"></script>
+    <script src="public/js/menu.js"></script>
+    <script src="public/js/main.js"></script>
   </head>
   <body>
     <div id="root">
-      <div id="title">
-        <h1>Code Katas Multiplayer App</h1>
-      </div>
-
+      <header class="sticky">
+        <div class="container">
+          <div class="nav-brand">
+          </div>
+        </div>
+      </header>
+      <main class="main-content">
+        <section class="nes-container with-title is-rounded">
+          <div id="header">
+            <p class="nav-bar">
+    						<button id="tab-main" type="button" class="nes-btn is-primary">Main</button>
+    						<button id="tab-about" type="button" class="nes-btn is-success">About</button>
+    						<button id="tab-scoreboard" type="button" class="nes-btn is-warning">Scoreboard</button>
+                <button id="tab-auth" type="button" class="nes-btn is-error">Login/Register</button>
+    				</p>
+            <p>Code Katas Multiplayer App<p>
+          </div>
+          <div id="main">
+            <div id="content-main">
+              <h1>test</h1>
+            </div>
+            <div id="content-about"></div>
+            <div id="content-scoreboard"></div>
+            <div id="content-auth"></div>
+          </div>
+        </section>
+      </main>
     </div>
+    <script src="public/js/menu.js"></script>
   </body>
 </html>
