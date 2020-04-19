@@ -8,6 +8,9 @@ The way we Structure our code will be specified in a README.md file in the clien
 The client folder is used for the front-end. <br />
 The server folder is used for the back-end. <br />
 
-## How To Help
+## The Todo Board
+The Todo Board Can Be Found At: https://github.com/users/daanbreur/projects/1
+
+## How To Helps
 More Information on how to participate in this project coming later...<br />
 **Stay Tuned**
