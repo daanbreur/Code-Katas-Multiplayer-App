@@ -1,4 +1,6 @@
-<a href="https://www.buymeacoffee.com/daanbreur" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+![Made with love in Netherlands](https://madewithlove.now.sh/nl?heart=true&template=for-the-badge)
+[![Buy Me A Coffee and Help Us](https://img.shields.io/badge/BuyMeACoffee-DaanBreur-orange?style=for-the-badge&logo=appveyor)](https://buymeacoffee.com/daanbreur)
 
 # Welcome
 Welcome on the github page for the (Community) Project Code Katas Multiplayer. <br />
