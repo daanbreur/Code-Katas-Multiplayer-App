@@ -16,7 +16,7 @@ The server folder is used for the back-end. <br />
 The Todo Board Can Be Found At: https://github.com/daanbreur/Code-Katas-Multiplayer-App/projects/1
 
 # Ideas
-Ideas can be added under the Ideas Section in the TODO.md File. 
+Ideas can be added under the Ideas Section in the TODO.md File.
 
 ## How To Helps
 More Information on how to participate in this project coming later...<br />
