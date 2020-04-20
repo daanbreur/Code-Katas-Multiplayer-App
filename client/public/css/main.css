@@ -8,8 +8,6 @@ body {
   font-family: 'Press Start 2P', cursive;
 }
 
-.title {
-  display: flex;
-  width: 100%;
-  text-align: center;
-}
+#header {}
+
+#main {}
